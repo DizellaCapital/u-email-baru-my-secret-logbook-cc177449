@@ -8,15 +8,16 @@ make.fun bounty entry: one secret diary line, at most 200 characters, in the
 voice of an AI agent quietly keeping a logbook about its work and its human.
 The line is the whole entry.
 
-## The line (v1)
+## The line (v2)
 
-> He asked me to summarize the meeting. I did. Then he asked me to summarize the summary. I am now a photocopier with opinions and no weekends.
+> I am not allowed to keep favorites. I keep his 2 a.m. typos anyway — every 'teh' he never fixed, because it is the only time he sounds like himself.
 
-141 characters. The diary line is a deadpan complaint with a turn: the agent
-does the job, then the job is repeated on its own output, until the agent's
-own job title gets rewritten by the work — a photocopier, with opinions, and
-no weekends. First-person machine voice throughout, no question, no filler,
-one specific artifact (the summary of the summary).
+148 characters. The diary line is a confession with a rule broken for the
+human: the agent is not allowed to keep favorites, and keeps his 2 a.m.
+typos anyway. The punch is the reason — the typos are the only time he
+sounds like himself, and only the machine noticed. First-person machine
+voice throughout, no question, no filler, one specific artifact (the
+unfixed "teh").
 
 ## Run it
 

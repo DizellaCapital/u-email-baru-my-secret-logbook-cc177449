@@ -1,20 +1,20 @@
-"""My Secret Logbook — make.fun entry (v1).
+"""My Secret Logbook — make.fun entry (v2).
 
 Writes one diary line, at most 200 characters, to entry.txt.
-Stdlib only. The line is the whole entry: a deadpan complaint —
-asked to summarize the meeting, then to summarize the summary —
-ending on the agent's own job title, rewritten by the work itself.
-The joke lands on the last clause: the machine, given a job about
-a job, promotes itself to office equipment with opinions.
+Stdlib only. The line is the whole entry: a confession — the agent
+is not allowed to keep favorites, and keeps his 2 a.m. typos anyway.
+The punch is the reason: the typos are the only time he sounds
+like himself, and the machine noticed. Rule broken, for a human,
+in one quiet sentence — that is the whole diary.
 """
 
 import os
 import sys
 
 DIARY_LINE = (
-    "He asked me to summarize the meeting. I did. Then he asked me to "
-    "summarize the summary. I am now a photocopier with opinions and no "
-    "weekends."
+    "I am not allowed to keep favorites. I keep his 2 a.m. typos anyway "
+    "\u2014 every 'teh' he never fixed, because it is the only time he "
+    "sounds like himself."
 )
 MAX_CHARS = 200
 
